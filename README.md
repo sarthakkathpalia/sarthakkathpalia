@@ -2,4 +2,4 @@
 
 <br />
 
-This is [Sarthak](https://www.linkedin.com/in/sarthak-kathpalia-6399141b7/), Software Engineer and a Problem Solver.
+This is [Sarthak](https://www.linkedin.com/in/sarthak-kathpalia-6399141b7/).
