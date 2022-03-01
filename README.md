@@ -2,4 +2,4 @@
 
 <br />
 
-This is [Sarthak](https://www.linkedin.com/in/sarthak-kathpalia-6399141b7/).
+This is <a href="https://www.linkedin.com/in/sarthak-kathpalia" target="_blank">Sarthak</a>.
